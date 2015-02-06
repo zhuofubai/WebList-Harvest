@@ -1,0 +1,15 @@
+8	 Christian Eyenga	 G-F	 6-5	 210	 06/22/1989	   Kinshasa, DRC	 R
+1	 Daniel Gibson	 G	 6-2	 200	 02/27/1986	   Texas	 4
+12	 Joey Graham	 F-G	 6-7	 230	 06/11/1982	   Oklahoma State	 5
+6	 Manny Harris	 G	 6-5	 185	 09/21/1989	   Michigan	 R
+21	 J.J. Hickson	 F	 6-9	 242	 09/04/1988	   North Carolina State	 2
+5	 Ryan Hollins	 C	 7-0	 240	 10/10/1984	   UCLA	 4
+4	 Antawn Jamison	 F	 6-9	 235	 06/12/1976	   North Carolina	 12
+15	 Jamario Moon	 F	 6-8	 205	 06/13/1980	   Meridian CC (MS)	 3
+18	 Anthony Parker	 G-F	 6-6	 215	 06/19/1975	   Bradley	 7
+44	 Leon Powe	 F	 6-8	 240	 01/22/1984	   California	 4
+24	 Samardo Samuels	 F	 6-9	 260	 01/09/1989	   Louisville	 R
+3	 Ramon Sessions	 G	 6-3	 190	 04/11/1986	   Nevada-Reno	 3
+17	 Anderson Varejao	 F-C	 6-11	 260	 09/28/1982	   Santa Teresa, Brazil	 6
+31	 Jawad Williams	 F	 6-9	 225	 02/19/1983	   North Carolina	 2
+2	 Mo Williams	 G	 6-1	 195	 12/19/1982	   Alabama	 7

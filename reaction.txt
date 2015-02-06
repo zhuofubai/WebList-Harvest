@@ -1,0 +1,11 @@
+In flux Glucose Glucose transporter
+Glucose -> Glucose 6-Phosphate	hexokinase	2.7.1.69
+Glucose 6-Phosphate <-> Fructose 6-Phosphate	phosphoglucose isomerase	5.3.1.9
+Fructose 6-Phosphate -> Fructose 1,6-Phosphate	Phosphofructokinase	2.7.1.11
+Fructose 6-Phosphate <- Fructose 1,6-Phosphate	Fructose-bisphosphatase	3.1.3.11
+Fructose 1,6-Phosphate <-> Glyceraldehyde 3-Phosphate	Aldolase	4.1.2.13
+Glyceraldehyde 3-Phosphate <-> Glycerate 1,3-Phosphate	Glyceraldehydes-3-phosphate dehydrogenase	1.2.1.12
+Glycerate 1,3-Phosphate -> Glycerate 3-Phosphate	Phosphoglycerate kinase	2.7.2.3
+Glycerate 3-Phosphate -> Glycerate 2-Phosphate	Phosphoglycero mutase	5.4.2.1
+Glycerate 2-Phosphate -> Phosphoenol Pyruvate	Enolase	4.2.1.11
+Phosphoenol Pyruvate -> Pyruvate	Pyruvate kinase	2.7.1.40
